@@ -146,7 +146,7 @@ $ cd FlashloanLeveragedYieldFarm
 1. Run Ganache Fork 
 Go to [Infura.io](https://infura.io/) create a new project and copy the Project ID
 Replace with your infura project id in ganache command below and leave running
-ganache-cli -p 7545 -f https://mainnet.infura.io/v3/<yourInfuraProjectIHere> 
+ganache-cli -p 7545 -f https://mainnet.infura.io/v3/799405517b414bc8b0c083d24773bacf
 See example below, make sure you use your own id instead of 8888888888888888888888888888888
 ```sh
 $ ganache-cli -p 7545 -f https://mainnet.infura.io/v3/8888888888888888888888888888888  
